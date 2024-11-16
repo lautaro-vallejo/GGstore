@@ -124,9 +124,3 @@ Almacena las valoraciones de los productos realizadas por los usuarios.
 - Los productos están organizados en categorías y marcas, facilitando la navegación en la tienda.
 
 ---
-
-## Conclusión
-
-GGStore utiliza una estructura de base de datos bien organizada para gestionar productos, carritos, pedidos, valoraciones y métodos de pago, ofreciendo una experiencia de compra eficiente y personalizada.
-
----
